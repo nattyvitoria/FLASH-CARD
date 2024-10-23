@@ -1,0 +1,5 @@
+cariaCartao(
+    categoria,
+    pergunta,
+    resposta,
+)
